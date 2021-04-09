@@ -40,10 +40,10 @@ Our Whatsapp Groups
 </br>
 <h2>Connect With Me :</h2>
 <div id="links">
-<a href="https://w.me/+94702801713">
+<a href="https://wa.me/+94702801713">
   <img align="left" alt="WhatsApp" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsApp.png" />
 </a>
-<a href="https://w.me/+17626751937">
+<a href="https://wa.me/+17626751937">
   <img align="left" alt="WhatsApp Business" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsAppBi.svg" />
 </a>
 <a href="https://t.me/PininduTharushan">
