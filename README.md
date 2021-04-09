@@ -34,9 +34,5 @@
   <img align="left" alt="Yahoo" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/yahoo.png" />
 </a>
 </div>                                                                                                                     
-
-&nbsp;<br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pinindu-tharushan.visitor-badge)
-
 </br>
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
