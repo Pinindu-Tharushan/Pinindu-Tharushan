@@ -21,14 +21,14 @@
 </br>
 <h2>Connect With Me :</h2>
 <div id="links">
+<a href="https://w.me/+94702801713">
+  <img align="left" alt="WhatsApp" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsApp.png" />
+</a>
 <a href="https://t.me/PininduTharushan">
   <img align="left" alt="Telegram" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/telegram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:pinindutharushan33@gmail.com">
   <img align="left" alt="Gmail" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/gmail.svg" />
-</a>
-<a href="https://w.me/+94702801713">
-  <img align="left" alt="WhatsApp" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsApp.png" />
 </a>
 <a href="mailto:pinindutharushan33@yahoo.com">
   <img align="left" alt="Yahoo" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/yahoo.png" />
