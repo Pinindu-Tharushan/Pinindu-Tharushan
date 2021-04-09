@@ -43,6 +43,9 @@ Our Whatsapp Groups
 <a href="https://w.me/+94702801713">
   <img align="left" alt="WhatsApp" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsApp.png" />
 </a>
+<a href="https://w.me/+17626751937">
+  <img align="left" alt="WhatsApp Business" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsAppBi.svg" />
+</a>
 <a href="https://t.me/PininduTharushan">
   <img align="left" alt="Telegram" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/telegram.svg" />
 </a> &nbsp;&nbsp;
