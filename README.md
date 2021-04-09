@@ -28,7 +28,7 @@
   <img align="left" alt="Gmail" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/gmail.svg" />
 </a>
 <a href="https://w.me/+94702801713">
-  <img align="left" alt="WhatsApp" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsApp.svg" />
+  <img align="left" alt="WhatsApp" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/WhatsApp.png" />
 </a>
 <a href="mailto:pinindutharushan33@yahoo.com">
   <img align="left" alt="Yahoo" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/yahoo.png" />
