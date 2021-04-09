@@ -21,10 +21,10 @@ Our Whatsapp Groups
 </div>
 
 
-<div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="7%"/>
-<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/java.png" width="8%"/>
-<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/html-5.svg" width="8%"/>
-<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/python.svg" width="8%"/>
+<div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="10%"/>
+<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/java.png" width="10%"/>
+<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/html-5.svg" width="10%"/>
+<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/python.svg" width="10%"/>
 </div>
 <br>&nbsp;
 <div id="stats">
