@@ -1,6 +1,7 @@
 # **Hi there !** <img src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/Hi.gif" width="29px">
 
 <h2>I am Pinindu Tharushan from Sri Lanka </h2>
+<h3>Royal Exploiters Admin</h3>
 <div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="7%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/java.png" width="8%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/html-5.svg" width="8%"/>
@@ -33,9 +34,8 @@
   <img align="left" alt="Yahoo" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/yahoo.png" />
 </a>
 </div>                                                                                                                     
-
-&nbsp;<br>
+<div>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pinindu-tharushan.visitor-badge)
-
+</div>
 </br>
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
