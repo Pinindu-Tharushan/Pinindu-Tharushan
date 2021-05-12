@@ -21,6 +21,10 @@
 <a href="https://github.com/Pinindu-Tharushan/YT-TO-MP4" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinindu-Tharushan&repo=YT-TO-MP4&theme=dark"></a>
 <a href="https://github.com/Pinindu-Tharushan/QR-monkey" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinindu-Tharushan&repo=QR-monkey&theme=dark" ></a>
 </div>
+<div id="two_repo">
+<a href="https://github.com/Pinindu-Tharushan/WDN-2-IP" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinindu-Tharushan&repo=WDN-2-IP&theme=dark"></a>
+<a href="https://github.com/Pinindu-Tharushan/Port-Scanner-Socket" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinindu-Tharushan&repo=Port-Scanner-Socket&theme=dark" ></a>
+</div>
 </br>
 <h2>Connect With Me :</h2>
 <div id="links">
