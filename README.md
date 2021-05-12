@@ -9,13 +9,11 @@
 <h3></h3>
 <div>
 <div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="10%"/>
-<div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.png" width="10%"/>
+<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.png" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/java.png" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/html-5.svg" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/python.svg" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/ruby.jpg" width="10%"/>
-</div>
-<div>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/pascal.png" width="10%"/>
 </div>
 <br>&nbsp;
