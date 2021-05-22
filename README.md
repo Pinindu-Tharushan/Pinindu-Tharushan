@@ -9,7 +9,7 @@
 <h3></h3>
 <div>
   <h3></h3>
-[![GitHub Pinindu-Tharushan](https://img.shields.io/github/followers/Pinindu-Tharushan?label=follow&style=social)](https://github.com/Pinindu-Tharushan)]<br>
+[![GitHub Bhai4You](https://img.shields.io/github/followers/Bhai4You?label=follow&style=social)](https://github.com/Bhai4You)<br>
   <h3></h3>
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=Pinindu-Tharushan&column=7"/>
   <h3></h3>
