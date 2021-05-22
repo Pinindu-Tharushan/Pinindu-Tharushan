@@ -17,7 +17,7 @@
 <div>
 <div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.png" width="10%"/>
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2Fbbhbih_java-logo-png-transparent-svg-vector-freebie-supply%2F&psig=AOvVaw022afN8nbp3VEwEMIy-CSr&ust=1621745634170000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICIibm_3PACFQAAAAAdAAAAABAD" width="10%"/>
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FiRbRmiw_datei-java-logo-svg-java-logo-svg-clipart%2F&psig=AOvVaw022afN8nbp3VEwEMIy-CSr&ust=1621745634170000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICIibm_3PACFQAAAAAdAAAAABAr" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/html-5.svg" width="10%"/>
 <img align="center" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/ruby.jpg" width="10%"/>
