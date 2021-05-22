@@ -55,12 +55,9 @@
   <img align="left" alt="Yahoo" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/yahoo.png" />
 </a>
 </div>  
-</br>
-<div>  
-![GitHub followers](https://img.shields.io/github/followers/Pinindu-Tharushan?color=red) ![GitHub views](https://komarev.com/ghpvc/?username=Pinindu-Tharushan&color=blue&label=Profile+Views)
-</div>  
+</br> 
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
 # Powered By Fsociety
 <div align="center">
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=Pinindu-Tharushan&label=Views&color=blue&style=plastic" alt="Can't See..!! Change Browser" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pinindu-Tharushan&label=Views&color=blue&style=plastic" alt="Can't See..!! Change Browser" width="10%"/> </p>
 </div>
