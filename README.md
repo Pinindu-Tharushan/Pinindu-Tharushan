@@ -60,4 +60,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Pinindu-Tharushan?color=red) ![GitHub views](https://komarev.com/ghpvc/?username=Pinindu-Tharushan&color=blue&label=Profile+Views)
 </div>  
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
-#Powered By Fsociety
+# Powered By Fsociety
+<div align="center">
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=Pinindu-Tharushan&label=Views&color=blue&style=plastic" alt="Can't See..!! Change Browser" /> </p>
+</div>
