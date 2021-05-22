@@ -19,7 +19,7 @@
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.png" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/java.png" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/html-5.svg" width="10%"/>
-<img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/python.svg" width="10%"/>
+<img align="center" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/ruby.jpg" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/pascal.png" width="10%"/>
 </div>
