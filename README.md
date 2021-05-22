@@ -54,9 +54,10 @@
 <a href="mailto:pinindutharushan33@yahoo.com">
   <img align="left" alt="Yahoo" width="8%" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/yahoo.png" />
 </a>
-</div>      
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinindu-Tharushan&show_icons=true&theme=radical&hide=prs,issues,contribs)
-![GitHub followers](https://img.shields.io/github/followers/Pinindu-Tharushan?color=red) ![](https://komarev.com/ghpvc/?username=Pinindu-Tharushan&color=blue&label=Profile+Views)
+</div>  
 </br>
+<div>  
+![GitHub followers](https://img.shields.io/github/followers/Pinindu-Tharushan?color=red) ![GitHub views](https://komarev.com/ghpvc/?username=Pinindu-Tharushan&color=blue&label=Profile+Views)
+</div>  
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
 #Powered By Fsociety
