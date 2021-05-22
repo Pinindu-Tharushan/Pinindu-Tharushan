@@ -2,11 +2,15 @@
 <div>
 <h2>I am Pinindu Tharushan from Sri Lanka </h2>
 <h3></h3>
-<h3>Royal Exploiters Admin</h3>
-<h3>Red Star Admin</h3>
-<h3>SL Cyber Warrios Community Member</h3>
+#Royal Exploiters Admin
+#Red Star Admin
+#SL Cyber Warrios Community Member
 </div>
 <h3></h3>
+<div>
+[![GitHub Pinindu-Tharushan](https://img.shields.io/github/followers/Pinindu-Tharushan?label=follow&style=social)](https://github.com/Pinindu-Tharushan)<br>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=Pinindu-Tharushan&column=7"/>
+</div>
 <div>
 <div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.png" width="10%"/>
@@ -52,3 +56,4 @@
 </div>                                                                                                                     
 </br>
 <h2> Starring Some Repos ❤️ Will Be Appreciated ...  </h2>
+#Powered By Fsociety
