@@ -17,7 +17,7 @@
 <div>
 <div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.png" width="10%"/>
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FiRbRmiw_datei-java-logo-svg-java-logo-svg-clipart%2F&psig=AOvVaw2vo4QtgskxNJXse1dmj2K6&ust=1621746033500000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi4sfTA3PACFQAAAAAdAAAAABAD" width="10%"/>
+<img align="center" src="https://p7.hiclipart.com/preview/578/816/935/java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar.jpg" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/html-5.svg" width="10%"/>
 <img align="center" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="10%"/>
 <img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/ruby.jpg" width="10%"/>
