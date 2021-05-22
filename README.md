@@ -8,8 +8,11 @@
 </div>
 <h3></h3>
 <div>
-[![GitHub Pinindu-Tharushan](https://img.shields.io/github/followers/Pinindu-Tharushan?label=follow&style=social)](https://github.com/Pinindu-Tharushan)<br>
+  <h3></h3>
+[![GitHub Pinindu-Tharushan](https://img.shields.io/github/followers/Pinindu-Tharushan?label=follow&style=social)](https://github.com/Pinindu-Tharushan)]<br>
+  <h3></h3>
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=Pinindu-Tharushan&column=7"/>
+  <h3></h3>
 </div>
 <div>
 <div id="langs"><img align="center" src="https://github.com/Pinindu-Tharushan/Pinindu-Tharushan/blob/main/Assets/c.svg" width="10%"/>
