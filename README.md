@@ -2,8 +2,8 @@
 <div>
 <h2>I am Pinindu Tharushan from Sri Lanka </h2>
 <h3></h3>
+<h3>Red Star Owner</h3>
 <h3>Royal Exploiters Admin</h3>
-<h3>Red Star Admin</h3>
 <h3>SL Cyber Warrios Community Member</h3>
 </div>
 <h3></h3>
